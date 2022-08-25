@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fernrosiedle/static/css/main.7af1941a.css",
+    "main.js": "/fernrosiedle/static/js/main.f0f27f92.js",
+    "static/js/787.b3f9d252.chunk.js": "/fernrosiedle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/fernrosiedle/index.html",
+    "main.7af1941a.css.map": "/fernrosiedle/static/css/main.7af1941a.css.map",
+    "main.f0f27f92.js.map": "/fernrosiedle/static/js/main.f0f27f92.js.map",
+    "787.b3f9d252.chunk.js.map": "/fernrosiedle/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af1941a.css",
+    "static/js/main.f0f27f92.js"
+  ]
+}
